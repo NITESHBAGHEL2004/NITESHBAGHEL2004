@@ -8,6 +8,8 @@
 🛠️ Code • Create • Innovate
 </h3>
 
+---
+
 - 🔭 I’m currently working on **Agentic AI Systems & LLM-based Applications**
 
 - 🌱 I’m currently learning **Advanced AI/ML, DevOps & System Design**
@@ -35,65 +37,54 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
+<ul>
 
-<!-- Programming -->
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+<li><b>💻 Programming:</b> Python, C, C++, Java, JavaScript</li>
 
-<!-- Web -->
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" height="40"/></a>
-<a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a>
+<li><b>🌐 Web Development:</b> Django, Flask, React, Node.js, NestJS</li>
 
-<!-- Data -->
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
-<a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
+<li><b>📱 Mobile Development:</b> Flutter</li>
 
-<!-- AI/ML -->
-<a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
-<a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
-<a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
+<li><b>📊 Data & Analytics:</b> Pandas, NumPy, SQL, MongoDB, MySQL, Power BI, EDA</li>
 
-<!-- Tools -->
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
+<li><b>🤖 AI / ML:</b> TensorFlow, PyTorch, Scikit-learn, OpenCV</li>
 
-</p>
+<li><b>🧠 LLM & AI Tools:</b> LangChain, RAG, OpenAI, Gemini, Claude, Hugging Face</li>
+
+<li><b>⚙️ Tools & DevOps:</b> Git, Docker, Postman, Linux, Jupyter Notebook, Streamlit</li>
+
+<li><b>🎨 Design:</b> Figma, Photoshop</li>
+
+</ul>
 
 ---
 
-### 🧠 AI / LLM Stack
+### 🧠 AI / LLM Focus
 
-- 🔹 LangChain • RAG • Prompt Engineering  
-- 🔹 OpenAI • Gemini • Claude • Hugging Face  
-- 🔹 LLM App Development & AI System Design  
+- 🔹 NLP, LLMs, Prompt Engineering  
+- 🔹 Building AI Applications using LangChain & RAG  
+- 🔹 Developing scalable AI systems & automation tools  
 
 ---
 
 ### 📊 Experience Highlights
 
 - 📈 Improved data accuracy by **30% using Python & SQL pipelines**  
-- 📊 Built dashboards in **Power BI for business insights**  
-- 🌐 Developed scalable apps using **Django & REST APIs**  
+- 📊 Built interactive dashboards using **Power BI**  
+- 🌐 Developed scalable backend systems using **Django & REST APIs**  
 
 ---
 
 ### ⚡ Projects
 
-- 🧹 **AutoClean AI** – AI-based data cleaning & EDA system  
-- 🧠 **SQLFlow** – Natural Language → SQL (LLM-based)  
-- 📚 **ELA Management System** – Full-stack Django platform  
+- 🧹 **AutoClean AI**  
+  → AI-based data cleaning, preprocessing & EDA system  
+
+- 🧠 **SQLFlow (LLM Project)**  
+  → Natural language to SQL query generator with real-time execution  
+
+- 📚 **ELA Management System**  
+  → Full-stack Django platform with tracking & reporting  
 
 ---
 
